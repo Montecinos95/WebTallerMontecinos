@@ -1,1 +1,26 @@
+.hero {
+    background-image: url(./media/Images/Background1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+}
 
+.Quien {
+    height: 100vh;
+    background-image: url(./media/blob-scene-haikei\ \(1\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #D8D9DA;
+    font-size: 1.2rem;
+}
+.Quien h2{
+    padding-top: 5%;
+}
+.Quien .parrauno {
+    padding-top: 20%;
+}
+
+.Quien .parrados {
+    padding-top: 10%;
+    text-align: center;
+}
