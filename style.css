@@ -1,11 +1,24 @@
 .hero {
-    background-image: url(./media/Images/Background1.jpeg);
+    /* background-image: url(./media/Images/Background1.jpeg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     height: 75vh;
 }
 
+.video-section {
+    position: relative;
+    height: 75vh; /* Set the height as needed */
+    overflow: hidden;
+}
 
+.video-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
 .Quien {
     height: 100vh;
